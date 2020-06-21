@@ -1,0 +1,62 @@
+
+// Unzip file with 7zip
+7za x TorontoTestprob.7z
+
+
+
+// Login
+// 1. Connect via LaSEEB VPN
+// 2. ssh to remote computer (e.g. "lisboa" host)
+
+ssh nleite@10.9.1.1
+ssh nleite@lisboa.local // Inside LaSEEB only
+
+
+// Copy from local to remote
+scp *.* nleite@10.9.1.1:/home/nleite/Nuno/PhD/cellularEA/lib
+scp /usr/lib/x86_64-linux-gnu/libboost_regex.so nleite@10.9.1.1:/home/nleite/Nuno/PhD/cellularEA/lib
+
+// Copy dependent libs
+libcma.a  libeo.a  libeoutils.a  libes.a  libga.a  libSOlib.so libboost_regex.so
+
+// Mount remote folder
+sshfs nleite@10.9.1.1:Nuno/PhD/cellularEA/Run2/ /home/nuno/Nuno/PhD/Runs/Remote\ Folders/Run2
+sshfs nleite@10.9.1.1:Nuno/PhD /home/nuno/Nuno/PhD/RemotePhD
+// Unmount
+fusermount -u /home/nuno/Nuno/PhD/RemotePhD
+
+////////////////////
+
+// 1. Login
+ssh nleite@10.9.1.100 // Portugal
+ssh nleite@10.9.1.1 // Lisboa
+ssh nleite@10.9.1.2 // Porto
+ssh nleite@10.9.1.3 // Faro
+
+// 2. Go to Run directory
+cd Nuno/PhD/cellularEA/Run1/
+
+// 3. Create task with screen command
+screen -S run1_dataset_12
+
+// 4. Set library path on remote machine
+export LD_LIBRARY_PATH=/home/nleite/Nuno/PhD/cellularEA/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/home/nleite/Nuno/PhD/SCEA/lib:$LD_LIBRARY_PATH
+
+// 5. Run
+
+$ ./exes 0  // Dataset  0 is Car92
+$ ./exes 1  // Dataset  1 is Car91
+$ ./exes 2  // Dataset  2 is Ear83
+$ ./exes 3  // Dataset  3 is Hec92
+$ ./exes 4  // Dataset  4 is Kfu93
+$ ./exes 5  // Dataset  5 is Lse91
+$ ./exes 6  // Dataset  6 is Pur93
+$ ./exes 7  // Dataset  7 is Rye93
+$ ./exes 8  // Dataset  8 is Sta83
+$ ./exes 9  // Dataset  9 is Tre92
+$ ./exes 10 // Dataset 10 is Uta92
+$ ./exes 11 // Dataset 11 is Ute92
+$ ./exes 12 // Dataset 12 is Yor83
+
+

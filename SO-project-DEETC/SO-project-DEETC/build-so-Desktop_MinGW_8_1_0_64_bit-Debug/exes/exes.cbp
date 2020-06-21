@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="exes"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\exes\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/exes"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 all"/>
+					<CompileFile command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 clean"/>
+					<DistClean command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exes">
+				<Option output="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/exes/exes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/exes"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/eo"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/mo"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/moeo"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../boost_1_73_0"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../armadillo/include"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/exes"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 exes"/>
+					<CompileFile command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 clean"/>
+					<DistClean command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exes/fast">
+				<Option output="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/exes/exes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/exes"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/eo"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/mo"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/moeo"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../boost_1_73_0"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../armadillo/include"/>
+					<Add directory="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/exes"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 exes/fast"/>
+					<CompileFile command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 clean"/>
+					<DistClean command="jom /NOLOGO /f F:\SO-project-DEETC\SO-project-DEETC\SO-project-DEETC\build-so-Desktop_MinGW_8_1_0_64_bit-Debug\exes\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/exes/TestSO.cpp">
+			<Option target="exes"/>
+		</Unit>
+		<Unit filename="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\"/>
+		</Unit>
+		<Unit filename="F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/exes/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\exes\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

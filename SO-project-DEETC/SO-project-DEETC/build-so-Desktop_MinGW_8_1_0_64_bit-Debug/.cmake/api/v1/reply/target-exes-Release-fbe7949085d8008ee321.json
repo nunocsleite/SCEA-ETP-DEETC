@@ -1,0 +1,216 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "exes/exes.exe"
+		},
+		{
+			"path" : "exes/exes.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"exes/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fPIC -O3 -DNDEBUG  "
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/eo"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/mo"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../ParadisEO-2.0/include/moeo"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../boost_1_73_0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/../../../armadillo/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/exes"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "SOlib::@306ed2d68c6501e8728f"
+		}
+	],
+	"id" : "exes::@ff77fc5d16a4fe3a3cfa",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-fPIC -O3 -DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "..\\lib\\libSOlib.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "F:\\SO-project-DEETC\\SO-project-DEETC\\SO-project-DEETC\\so\\lib\\libeo.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "F:\\SO-project-DEETC\\SO-project-DEETC\\SO-project-DEETC\\so\\lib\\libes.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "F:\\SO-project-DEETC\\SO-project-DEETC\\SO-project-DEETC\\so\\lib\\libcma.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "F:\\SO-project-DEETC\\SO-project-DEETC\\SO-project-DEETC\\so\\lib\\libeoutils.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "F:\\SO-project-DEETC\\SO-project-DEETC\\SO-project-DEETC\\so\\lib\\libga.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "exes",
+	"nameOnDisk" : "exes.exe",
+	"paths" : 
+	{
+		"build" : "exes",
+		"source" : "exes"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "exes/TestSO.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

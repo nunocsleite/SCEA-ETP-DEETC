@@ -1,0 +1,3255 @@
+Start Date/Time = 2020-06-21.16:38:41
+SCEA parameters:
+m = 3, N = 8, q = 8, L = 100000000
+cp = 0.2, mp = 0, ip = 1
+GDA parameters:
+up: 0.001
+Run SCEA on 1st Epoch...
+Test set	 # students	 # exams	 # enrolments	 conflict density	 # time slots
+deetc0910_1stEpoch	 1238	 80	 4548	 0.324375	 18
+
+
+Date/Time = 2020-06-21.16:38:41, popVariance = 10.9314, best sol = 35.5162
+
+Date/Time = 2020-06-21.16:38:41, popVariance = 11.0944, best sol = 34.4289
+
+Date/Time = 2020-06-21.16:38:41, popVariance = 10.73, best sol = 34.4289
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 11.3522, best sol = 34.1454
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 11.1018, best sol = 34.1454
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 9.76195, best sol = 33.8166
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 9.77356, best sol = 33.8166
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 9.43126, best sol = 33.3304
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 7.61728, best sol = 33.3304
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 6.2741, best sol = 33.3304
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 4.43527, best sol = 33.1527
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 3.27884, best sol = 33.1527
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 3.27884, best sol = 33.1527
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 3.25718, best sol = 33.1527
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 2.04241, best sol = 33.1527
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 0.544026, best sol = 31.4669
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 0.508906, best sol = 31.4669
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 0.424997, best sol = 31.4669
+
+Date/Time = 2020-06-21.16:38:42, popVariance = 0.375098, best sol = 31.4669
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.376057, best sol = 31.4669
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.345164, best sol = 31.4669
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.301796, best sol = 31.4669
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.364523, best sol = 31.3683
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.413256, best sol = 31.3683
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.408532, best sol = 31.3683
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 1.38853, best sol = 31.2819
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 1.25057, best sol = 31.2819
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 1.4526, best sol = 31.2819
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.252798, best sol = 31.2819
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.208949, best sol = 31.2819
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.211792, best sol = 31.2819
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.173552, best sol = 31.2819
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.21013, best sol = 31.2819
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.187202, best sol = 31.0565
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.209003, best sol = 30.8893
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.223933, best sol = 30.8102
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.133, best sol = 30.8102
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.109756, best sol = 30.8102
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.107709, best sol = 30.6559
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.131436, best sol = 30.4103
+
+Date/Time = 2020-06-21.16:38:43, popVariance = 0.0942592, best sol = 30.4103
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.123697, best sol = 30.2948
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.152603, best sol = 30.147
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.149495, best sol = 30.147
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.497248, best sol = 30.147
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.494838, best sol = 30.147
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.504898, best sol = 30.143
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.504799, best sol = 30.143
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.509502, best sol = 30.1187
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.652842, best sol = 30.1187
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.652842, best sol = 30.1187
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.711591, best sol = 30.1187
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.260937, best sol = 30.0574
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.0807019, best sol = 30.0145
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.656678, best sol = 30.0145
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.667624, best sol = 29.9572
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.672117, best sol = 29.9572
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.670226, best sol = 29.9572
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.67551, best sol = 29.9572
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.682135, best sol = 29.9572
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.0777426, best sol = 29.9572
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.0783409, best sol = 29.9572
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.0946655, best sol = 29.9572
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.0788193, best sol = 29.9273
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.0423317, best sol = 29.9273
+
+Date/Time = 2020-06-21.16:38:44, popVariance = 0.042374, best sol = 29.9273
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0399217, best sol = 29.8223
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0309868, best sol = 29.7868
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.029382, best sol = 29.7512
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0281557, best sol = 29.7278
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.020476, best sol = 29.7278
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.01824, best sol = 29.7278
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0194929, best sol = 29.5743
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0174974, best sol = 29.5743
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0174002, best sol = 29.5743
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0134892, best sol = 29.5743
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0134892, best sol = 29.5743
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0152258, best sol = 29.5743
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0166126, best sol = 29.5735
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0183611, best sol = 29.5331
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0167423, best sol = 29.5331
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.0238052, best sol = 29.2254
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.114559, best sol = 29.2254
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.121743, best sol = 29.2254
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.121743, best sol = 29.2254
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.376707, best sol = 29.2254
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.485705, best sol = 29.2254
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.565497, best sol = 29.2254
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.485847, best sol = 29.2254
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.500272, best sol = 29.2068
+
+Date/Time = 2020-06-21.16:38:45, popVariance = 0.500272, best sol = 29.2068
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.541571, best sol = 29.2068
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.545318, best sol = 29.2068
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0258864, best sol = 29.2068
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0255527, best sol = 29.2068
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.317816, best sol = 29.2068
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.320251, best sol = 29.2068
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.209462, best sol = 29.1696
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.21046, best sol = 29.1632
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0215129, best sol = 29.147
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0196402, best sol = 29.1252
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0196799, best sol = 29.1252
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.207425, best sol = 29.1252
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.206188, best sol = 29.1252
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0236531, best sol = 29.067
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0224639, best sol = 29.067
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.111866, best sol = 29.067
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.111891, best sol = 29.067
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.121805, best sol = 29.046
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.123043, best sol = 29.046
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 1.70818, best sol = 29.046
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 1.70768, best sol = 29.046
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 1.65099, best sol = 29.046
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0152003, best sol = 28.9564
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0153565, best sol = 28.9426
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0159529, best sol = 28.9031
+
+Date/Time = 2020-06-21.16:38:46, popVariance = 0.0154334, best sol = 28.9023
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0144485, best sol = 28.8958
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0114113, best sol = 28.8837
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0141867, best sol = 28.8837
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0141867, best sol = 28.8837
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.013, best sol = 28.8837
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0134844, best sol = 28.8837
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0460759, best sol = 28.8837
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0462275, best sol = 28.832
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0462275, best sol = 28.832
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0467876, best sol = 28.832
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0475977, best sol = 28.832
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.0481345, best sol = 28.832
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.018931, best sol = 28.832
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.117136, best sol = 28.8045
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.112649, best sol = 28.8045
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.112694, best sol = 28.8045
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.112694, best sol = 28.8045
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.115694, best sol = 28.7415
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.115679, best sol = 28.7415
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.117046, best sol = 28.7415
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.121166, best sol = 28.7415
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.01089, best sol = 28.7124
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.00928029, best sol = 28.7124
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.00908065, best sol = 28.6422
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.00847516, best sol = 28.6422
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.00741871, best sol = 28.6422
+
+Date/Time = 2020-06-21.16:38:47, popVariance = 0.00741871, best sol = 28.6422
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.00704931, best sol = 28.6422
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.00735376, best sol = 28.6422
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.309424, best sol = 28.6422
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.00773315, best sol = 28.6422
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.0083869, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.0083869, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.00839336, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.00750655, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.00369, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 1.59262, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 1.59262, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 1.86324, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 1.8579, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 1.85486, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 1.85443, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.0074, best sol = 28.6389
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.01466, best sol = 28.6292
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.04559, best sol = 28.6292
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.01719, best sol = 28.6292
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.01545, best sol = 28.6292
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 3.92077, best sol = 28.6292
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 3.92098, best sol = 28.6292
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.02338, best sol = 28.622
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.14883, best sol = 28.622
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.14684, best sol = 28.622
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 2.14435, best sol = 28.622
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.216623, best sol = 28.6171
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.216623, best sol = 28.6171
+
+Date/Time = 2020-06-21.16:38:48, popVariance = 0.216043, best sol = 28.6171
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.21376, best sol = 28.6171
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.212211, best sol = 28.6171
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.212675, best sol = 28.6171
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.210289, best sol = 28.6171
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0632871, best sol = 28.6099
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0632871, best sol = 28.6099
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0644277, best sol = 28.6099
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0914046, best sol = 28.6099
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0617338, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0617782, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0645442, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0641331, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0670611, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0353576, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0316008, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0332623, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0281699, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0278566, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.029977, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0312997, best sol = 28.5695
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0278515, best sol = 28.5016
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.028271, best sol = 28.5016
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.028251, best sol = 28.5016
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0975711, best sol = 28.5016
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.097014, best sol = 28.5016
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.1008, best sol = 28.4927
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.1008, best sol = 28.4927
+
+Date/Time = 2020-06-21.16:38:49, popVariance = 0.0993468, best sol = 28.4927
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.099837, best sol = 28.4927
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.105868, best sol = 28.4927
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.105193, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.105193, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.105193, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.199418, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.198109, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.197608, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.105674, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.105674, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0344793, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0344793, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0344793, best sol = 28.479
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0302576, best sol = 28.4023
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0300782, best sol = 28.4023
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0337275, best sol = 28.4023
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0341006, best sol = 28.4023
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0990814, best sol = 28.4023
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.315745, best sol = 28.4023
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.320809, best sol = 28.3958
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.414629, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.42824, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.42824, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.117625, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0362563, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.0362454, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.274972, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:50, popVariance = 0.275229, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.274285, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.274284, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.274376, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.274757, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.484682, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.479154, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.475409, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.374719, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.378012, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.378012, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.377901, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.377901, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.377901, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.279443, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.279443, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.285671, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.286085, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.284686, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.602497, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.632795, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.612037, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.737394, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.737394, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.737394, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.547665, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.55787, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:51, popVariance = 0.512596, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.510463, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.439639, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.165189, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.162397, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0707029, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0709825, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0684661, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0684661, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0675598, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0447119, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0408027, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0412313, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.118922, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0457422, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0450052, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0450512, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0450512, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.180267, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.180057, best sol = 28.3748
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0465547, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.330865, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.0492022, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.395402, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.395365, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.391163, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.389962, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.393596, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.393658, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:52, popVariance = 0.390439, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.390463, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.390629, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.465501, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.672605, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.672605, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.672605, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.671753, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.688469, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.686805, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.686306, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.798674, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.989365, best sol = 28.3554
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.886902, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.885332, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.884983, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.884983, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.915832, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.908651, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.907502, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.907502, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.908077, best sol = 28.3506
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.859313, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 1.08902, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 1.08718, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.637006, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.0932948, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.330155, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:53, popVariance = 0.334818, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.335125, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.335108, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.335589, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.335589, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.333508, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.333508, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.333508, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.341716, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.341716, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.341009, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.3352, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.334355, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.334355, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.333616, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.33204, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.701138, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.699667, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.700527, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.831298, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.821626, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.829262, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.829859, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.873163, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.872614, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.970444, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.996674, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 0.992422, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 1.00809, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 1.00809, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 1.03734, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:54, popVariance = 1.1771, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.1771, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.17845, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.17389, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.09429, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.09106, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.1251, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.29478, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.33697, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.32365, best sol = 28.3352
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.2435, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.24328, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.29552, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.30027, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.29576, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.29421, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 1.31803, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.793706, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.796133, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.796133, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.801987, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.795088, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.835165, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.861155, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.861155, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.861155, best sol = 28.2254
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.776433, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.772937, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.771845, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.776082, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.776913, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:55, popVariance = 0.920152, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.920152, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.892935, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.885368, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.890684, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.890684, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.876741, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.871011, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.871011, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.875608, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.87235, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.871012, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.746167, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.638052, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.638052, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.537662, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.572958, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.571665, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.572107, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.978527, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.983028, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.983028, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 1.02893, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 1.07029, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 1.06521, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 1.08665, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 1.08948, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 1.08706, best sol = 28.2246
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.699623, best sol = 28.2229
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.699205, best sol = 28.2229
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.656943, best sol = 28.2189
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.354941, best sol = 28.2189
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.339155, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:56, popVariance = 0.342044, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.601667, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.601667, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.601667, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.596242, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.595379, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.595379, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.593562, best sol = 28.2141
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.372794, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.139162, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.23596, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.23596, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.23596, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.235267, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.23944, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.240983, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.240983, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.0870275, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.0865954, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.462095, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.472528, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.472528, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.472003, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.467642, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.469293, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.469293, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.546015, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.470741, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.470741, best sol = 28.2044
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.469247, best sol = 28.2027
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.470154, best sol = 28.2027
+
+Date/Time = 2020-06-21.16:38:57, popVariance = 0.470162, best sol = 28.2027
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.468204, best sol = 28.2027
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.463577, best sol = 28.2027
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.48492, best sol = 28.2027
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.485456, best sol = 28.2027
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.555178, best sol = 28.2027
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.495687, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.133845, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.1491, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.167748, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.417946, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 0.41605, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.14957, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.14957, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.14957, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.14957, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.14897, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.14897, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.15054, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.13429, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.13429, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.13047, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.12813, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.68641, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.68614, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.69036, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.68525, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.68525, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 2.66403, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 1.95608, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 1.95981, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 1.95214, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:58, popVariance = 1.95147, best sol = 28.1931
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.220176, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.220176, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.225297, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.225297, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.226436, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.216272, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.203008, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.225771, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.225771, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.225391, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.225391, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.225391, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.224821, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.224939, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.229834, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.300794, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.441021, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.440911, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.457443, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.490402, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.490402, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.490402, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.490402, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.490001, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.489583, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.492282, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.49123, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.49123, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.357898, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.357898, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.357898, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.351808, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:38:59, popVariance = 0.406347, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.412694, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.189173, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.186376, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.186386, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.186352, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.191098, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.191085, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.106398, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.106398, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.111898, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.109913, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.110202, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.110202, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.259286, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.2921, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.29021, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.28769, best sol = 28.1793
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.67031, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.67031, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.67031, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.67031, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.51376, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.50611, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 2.92585, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 1.14272, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 1.14272, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 1.17349, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.306982, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.306982, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.493485, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:00, popVariance = 0.493485, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.493096, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.484684, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.487753, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.487753, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.480833, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.48101, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.530082, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.5325, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.540573, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.343747, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.346308, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.346308, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.345992, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.452665, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.452665, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.451943, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.465297, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.4915, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.553608, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.333111, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.333816, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.333828, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.333828, best sol = 28.1777
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.329913, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.329913, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.326936, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.204211, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.218424, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.215944, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.377417, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.376957, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:01, popVariance = 0.376235, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.380285, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.378166, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.376137, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.312258, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.312258, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.311362, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.308071, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.308071, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.352444, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.34715, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.34552, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.34552, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.34552, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.622175, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.622175, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.608103, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.612014, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.460075, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.468863, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.565127, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.56571, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.56571, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.568133, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.567408, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.573266, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.570479, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.564326, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.560666, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.561172, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.561172, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:02, popVariance = 0.562188, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.57379, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.57379, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.566106, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.566106, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.566247, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.562596, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.551004, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.551004, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.558683, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.555156, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.568322, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.461847, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.537266, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.867792, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.870268, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.809723, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.809723, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.814598, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.813299, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.822342, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.822342, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.841845, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.697709, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.697017, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.698416, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 1.30435, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 1.30391, best sol = 28.1769
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.931655, best sol = 28.1761
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.928651, best sol = 28.1761
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.921087, best sol = 28.1761
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.920557, best sol = 28.1761
+
+Date/Time = 2020-06-21.16:39:03, popVariance = 0.810549, best sol = 28.1761
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.750072, best sol = 28.1721
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.957101, best sol = 28.1721
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 1.028, best sol = 28.1721
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 1.0318, best sol = 28.1721
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 1.0318, best sol = 28.1721
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 1.03105, best sol = 28.1721
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.993496, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 2.34155, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 2.35039, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 2.32618, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.732841, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 1.00065, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 1.00024, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.995784, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.970436, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.95856, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.958664, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.939783, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.960149, best sol = 28.168
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.905327, best sol = 28.164
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.906572, best sol = 28.164
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.900878, best sol = 28.164
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.888214, best sol = 28.164
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.898042, best sol = 28.164
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.889462, best sol = 28.164
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.589644, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.589644, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.595967, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.595388, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.611628, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.611739, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.611739, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.851733, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.854852, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:04, popVariance = 0.852957, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.849548, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.51746, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.51746, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.68088, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.67405, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.67249, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.67125, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.67608, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.67566, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.48742, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 2.48742, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.597325, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.338023, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.338433, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.327763, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.321597, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.321597, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.648269, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.646258, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.643495, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.645587, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.655559, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.794106, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.504217, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.526838, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.548178, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.397763, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.391149, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.390834, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.389449, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.41172, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.412445, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.398103, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.398103, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:05, popVariance = 0.452543, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.459492, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.326289, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.284087, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.284227, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.284348, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.299866, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.301583, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.3009, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.299217, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 2.10862, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 2.10862, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 2.10902, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 2.10902, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 1.98982, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 1.98982, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 1.9768, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 1.97644, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 1.97849, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 1.97799, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 1.97803, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 3.3154, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 3.4896, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 3.53704, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.683118, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.679505, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.67745, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.675004, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.675004, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.673594, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.673696, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.673848, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.744061, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 0.747125, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:06, popVariance = 1.02907, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 1.02803, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 1.02803, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 1.02682, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.972445, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.579542, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.579542, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.580348, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.259844, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.297404, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.297404, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.242103, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.674655, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.674655, best sol = 28.1252
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.651093, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.651866, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.647718, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.785011, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.788398, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.788675, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.772378, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.916125, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.916125, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.916042, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.917081, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.914431, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.893731, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.87911, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.879388, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.879388, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.873528, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.898493, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.898493, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.898493, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.885367, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.883521, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:07, popVariance = 0.547143, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.788472, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.788472, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.788472, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.79844, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.793208, best sol = 28.1228
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.694483, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.692731, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.690729, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.690729, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.692694, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.683947, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.683278, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.682, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.682, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.433529, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.433529, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 2.44984, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 2.4381, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 2.4368, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 2.4419, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 2.4419, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 2.43567, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.511969, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.497635, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.499379, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.499379, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.499379, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.499379, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.447224, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.437274, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.436293, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.436293, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.318258, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:08, popVariance = 0.320704, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.323873, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.323873, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.323762, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.323394, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.374034, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.382475, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.348913, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.348913, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.355585, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.386638, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.390924, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.388576, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.268635, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.268022, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.268664, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.269845, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.269845, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.270707, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.266413, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.266797, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.29517, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.30867, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.30867, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.30867, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.324424, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.311645, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.311645, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.309286, best sol = 28.1187
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.284424, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.276926, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.275747, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.685803, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.683195, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.241485, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:09, popVariance = 0.238969, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.233665, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.301773, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.301773, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.23353, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.23353, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.189205, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.313472, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.313472, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.31118, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.308563, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.308563, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.312102, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.312102, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.311238, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.517025, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.591184, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.584379, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.584379, best sol = 28.1171
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.530111, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.530111, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.20261, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.203336, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.203336, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.231696, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.232498, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.232498, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.230714, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.230714, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.231106, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.231958, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.231958, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.231926, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.231926, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.231644, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:10, popVariance = 0.214412, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.21074, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.21103, best sol = 28.1163
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.18624, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.187744, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.187744, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.156511, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.146603, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.150772, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.15101, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.151048, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.148295, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.148295, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.617148, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.608279, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.725602, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 1.00846, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 1.00846, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.994721, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.984489, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.969071, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 0.969579, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 1.015, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 1.015, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 1.00978, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.68089, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.68226, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.6714, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.65241, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.6524, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.6524, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.68052, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.41944, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.38123, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:11, popVariance = 2.37966, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.44465, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.43863, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.28242, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.28369, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.28369, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.28352, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.52839, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.51523, best sol = 28.1131
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.43013, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.43013, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.43013, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.43145, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.61368, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 2.60806, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.908845, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.908476, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.913852, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.906017, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.892411, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 1.0408, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 1.04547, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 1.02407, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.912524, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.697877, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.697149, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.680377, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.58906, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.58906, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.586404, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.58566, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.578796, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.578796, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.578796, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.578796, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.577628, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:12, popVariance = 0.580528, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.580495, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.58015, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.578529, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.578529, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.759653, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.755455, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.29529, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.38766, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.41535, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.14009, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.19071, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.19071, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.19084, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.19079, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.18698, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.15541, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.13817, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.21884, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.22171, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 1.23008, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.729609, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.726557, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.726557, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.726557, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.531265, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.407941, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.387625, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.388851, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.387345, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.387345, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.385221, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.381183, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:13, popVariance = 0.383559, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.519045, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.519261, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.530529, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.523649, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.523649, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.538113, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.537712, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.533577, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.535654, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.535654, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.503141, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.502455, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.50186, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.50186, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.347365, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.350329, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.371169, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.356041, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.353629, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 1.33942, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 1.42989, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 1.52069, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.164577, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.144697, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.14443, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.14186, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 0.145273, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 2.19387, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 2.19346, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 2.19327, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 2.19124, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:14, popVariance = 2.19069, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 2.18953, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 2.1889, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 2.19457, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0812874, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0812874, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0812874, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0812874, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0809495, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0806709, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0832958, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0841828, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0841828, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0834255, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0825909, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.0984251, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.103435, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.104136, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.103049, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.343087, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.34296, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.343749, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.343749, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.340523, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.334934, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.35755, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.353852, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.355704, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.355704, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.357382, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.662328, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:15, popVariance = 0.663103, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.663103, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.663103, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.664689, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.663013, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.665339, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.360073, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.359884, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.623374, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.623374, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.623374, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.622736, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.6195, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.688807, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.688807, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.410816, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.412917, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.412917, best sol = 28.1123
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.387188, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.383708, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.382458, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.382458, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.382531, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.382822, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.382216, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.380227, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.353236, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.354212, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.352737, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.0748371, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.0833221, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.0467385, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:16, popVariance = 0.0529821, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.294834, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.346925, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.04423, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.07269, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.20361, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.19093, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.18893, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.18607, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.18607, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.18475, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.1839, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.2082, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 2.20923, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.67921, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.67921, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.733781, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.67921, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.679558, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.509123, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.603264, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.598979, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.600751, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.603084, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.66092, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.591879, best sol = 28.1099
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.496906, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.496906, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.491707, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.592592, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.5933, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 0.613074, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:17, popVariance = 1.0851, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.68337, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.68337, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.68139, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.69349, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.68264, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.68264, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.68578, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.69359, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.90672, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.89228, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.89397, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.96919, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.97701, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.9764, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.97744, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.97054, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 2.07403, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 3.58261, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 3.56919, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 3.57932, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 3.57932, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.87411, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.8762, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.91009, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.89972, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.89972, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 2.01769, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 2.03896, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.50069, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.51106, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.51311, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 1.69034, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:18, popVariance = 2.66147, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 2.66357, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 4.12493, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 4.1296, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 4.13123, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 4.12649, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 4.1429, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 4.12769, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 2.71708, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.57081, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.44877, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.44352, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.42612, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.43196, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.44956, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.44956, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.39237, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.39237, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.27952, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.24958, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.24958, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.25073, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.24682, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.24682, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.24821, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.24679, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.3486, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.36386, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.72682, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.71683, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.71407, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.71175, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:19, popVariance = 3.38053, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.53875, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.53235, best sol = 28.109
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.48245, best sol = 28.1082
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.48245, best sol = 28.1082
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.48245, best sol = 28.1082
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.48245, best sol = 28.1082
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 2.07045, best sol = 28.1082
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 1.93676, best sol = 28.1082
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 1.87, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 1.87, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 1.87, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 1.86713, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 2.04343, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 2.04363, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 2.03181, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.7865, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.78311, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.79038, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.79038, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.77291, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.76755, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 3.76452, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 2.40883, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 4.13227, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 4.13043, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 4.12203, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 4.20987, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 4.21086, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 4.21057, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 4.41806, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:20, popVariance = 2.73918, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.73918, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.72323, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.71879, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.7155, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.71413, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.71737, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.71359, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.70059, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.70059, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.70276, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.70181, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.67739, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.6747, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.67775, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.68258, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.68219, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.67943, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.67943, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.67943, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.6769, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.67629, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.67629, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.67629, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.64839, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.66157, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.58214, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 2.58214, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 0.550615, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 0.550615, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 0.491814, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:21, popVariance = 0.491888, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.559008, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.559008, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.699677, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.701645, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.694027, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.702108, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.702108, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.696646, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.02323, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.05512, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.04582, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.01985, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.05143, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.25311, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.26255, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.29211, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.28385, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.27949, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.2947, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.27761, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.27402, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.27097, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.31763, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.29916, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.24926, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.00706, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.01033, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.997812, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 0.995136, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.0126, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.01215, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:22, popVariance = 1.01215, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 1.00996, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.886185, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.886185, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.892629, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.885348, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.885348, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.885348, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.819219, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.562564, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.397393, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.403709, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.351596, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.384531, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.383117, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.391127, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.878827, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.834287, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.841896, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.759886, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.757643, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.222989, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.217635, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.217266, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.214807, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.216082, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.212612, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.212034, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.213237, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:23, popVariance = 0.260291, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.260291, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.821846, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.788139, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.788139, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.167241, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.167229, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.199499, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.242109, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.453287, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.459287, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.458349, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.45496, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.457329, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.451484, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.58616, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.586141, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.586141, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.569856, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.569856, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.568103, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 1.09109, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 1.07315, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 1.04823, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.891994, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.566887, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.565208, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.570448, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.570448, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:24, popVariance = 0.565627, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.56498, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.56498, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.56498, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.56498, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.528229, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.528229, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.345094, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.341935, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.396588, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.396588, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.393221, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.363226, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.362247, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.359504, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.273273, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.0995106, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.0989997, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.0995387, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.101005, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.101005, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.0942467, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.109076, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.14867, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.16389, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.151682, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.141088, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:25, popVariance = 0.233412, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.335761, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.33579, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.256641, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.256641, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.243342, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.244756, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.244756, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.279469, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.277835, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.275929, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.382964, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.379123, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.273085, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.226577, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.226577, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.286463, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.286304, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.286304, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.0585728, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.0585728, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.23779, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.23779, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.240676, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.240416, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.239711, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 2.07378, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.0616321, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.0616321, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:26, popVariance = 0.0536404, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.106092, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.0999058, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.334595, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.334595, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.33452, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.335669, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.335669, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.332057, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.562804, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.568618, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.568618, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.568269, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.568269, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.568269, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.580433, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.586615, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.585865, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.588453, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.589258, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.603189, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.590291, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.588493, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.629259, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.629259, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.629259, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.75965, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.761045, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.858015, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.215307, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:27, popVariance = 0.215307, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.213853, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0538747, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0550683, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0554445, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0554445, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0559437, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0567004, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0516547, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0486959, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0473576, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0700717, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.074783, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0757146, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0757146, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.074981, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0761344, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0767623, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0785654, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0785654, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.0826167, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.295126, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.293186, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.450376, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.445888, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 1.12862, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 1.14982, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 1.16668, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 1.15806, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 1.14704, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:28, popVariance = 0.99606, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 0.99606, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 0.997488, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 0.995546, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 0.992984, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.1143, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.1143, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.1143, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.1143, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 0.997252, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.00262, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 0.996983, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.38165, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.37995, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.28617, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.28624, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.27702, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.32348, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.29327, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.2953, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.30153, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.35986, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.69544, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 2.01515, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.51125, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.5097, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.5097, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.13193, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:29, popVariance = 1.12938, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.12796, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.12796, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.14469, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.07977, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.08015, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.07961, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.0809, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.09614, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.09673, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.08968, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.09024, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 1.09029, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.183222, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.183222, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.187514, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.196584, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.212088, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.212958, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.212958, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.212958, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.213254, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.210473, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.210473, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.210201, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.207194, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.2076, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.207564, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.207527, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.392441, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:30, popVariance = 0.389127, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.388936, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.515423, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.571342, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.577536, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.576674, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.576674, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.576674, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.572239, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.894755, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.892732, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 0.892732, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.04955, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.04355, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.03775, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.03775, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.03775, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.02576, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.02576, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.0233, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.15795, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.15023, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.0994, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.10001, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.10001, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.10091, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.10091, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.10091, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.07649, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.07201, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:31, popVariance = 1.07201, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.07201, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.07201, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.28129, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.27219, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.4086, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.4086, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.40915, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.5963, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.59611, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.61744, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.61744, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.22724, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.22724, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.22151, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.23005, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.21081, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.20001, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.2394, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.73054, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.73534, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 2.73409, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.69284, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.69284, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.49173, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.49173, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.49173, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.49173, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:32, popVariance = 1.441, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.43883, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.867228, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.867228, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.0108, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.0108, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.01044, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.01134, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.893238, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.926495, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.744147, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.740329, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.434615, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.434615, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.434615, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.57959, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.734465, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.449192, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.449192, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.449192, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.773813, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.764954, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.766768, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 0.763297, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.29813, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.38478, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.3848, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.3848, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.38977, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:33, popVariance = 1.56709, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.56386, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 3.01513, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 3.00397, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 2.99572, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 2.99943, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 2.9669, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 2.9669, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 2.96428, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 2.96428, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.41593, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.41593, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.97981, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.97981, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.93204, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.92546, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.92175, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.94422, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.95215, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 1.94956, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.224277, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.224277, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.224277, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.223726, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.22381, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.213222, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.213222, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.209744, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.218608, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.218608, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.257958, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.260761, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.262846, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:34, popVariance = 0.262846, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:35, popVariance = 0.26448, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:35, popVariance = 0.261914, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:35, popVariance = 0.262152, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:35, popVariance = 0.262152, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:35, popVariance = 0.262152, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:35, popVariance = 0.261629, best sol = 28.1058
+
+Date/Time = 2020-06-21.16:39:35, popVariance = 0.262367, best sol = 28.1058
+End Date/Time = 2020-06-21.16:39:38

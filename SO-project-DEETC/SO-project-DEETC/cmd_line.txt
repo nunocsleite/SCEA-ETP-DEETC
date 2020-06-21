@@ -1,0 +1,4 @@
+./exes 0 ./Run1/
+
+
+-j4 // parallel build

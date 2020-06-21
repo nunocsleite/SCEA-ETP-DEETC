@@ -1,0 +1,8 @@
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/lib/CMakeFiles/SOlib.dir
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/lib/CMakeFiles/edit_cache.dir
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/lib/CMakeFiles/rebuild_cache.dir
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/exes/CMakeFiles/exes.dir
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/exes/CMakeFiles/edit_cache.dir
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/build-so-Desktop_MinGW_8_1_0_64_bit-Debug/exes/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/SO-project-DEETC/SO-project-DEETC/SO-project-DEETC/so/exes/TestSO.cpp
+cmath
+-
+iostream
+-
+stdlib.h
+-
+
